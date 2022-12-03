@@ -1,1 +1,1 @@
-a noob in C++.
+hello
